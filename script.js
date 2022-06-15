@@ -4,7 +4,7 @@ for( let i= 1; i<=10; i++) {
 }
 let x=10;
 while(x>=1){
-  console.log("10 até 1 com for:",x);
+  console.log("10 até 1 com while;
   x--;
 }
 
